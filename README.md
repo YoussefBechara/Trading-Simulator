@@ -1,7 +1,7 @@
 # Trading Simulator
 A Jupyter Notebook-based trading simulator for analyzing and projecting trading profits through data-driven approaches.
-
-![Alt text](https://github.com/YoussefBechara/Trading-Simulator/blob/main/image_example.png))
+![Alt text](https://github.com/YoussefBechara/Trading-Simulator/blob/main/TradingSimulationExample.png)
+![Alt text](https://github.com/YoussefBechara/Trading-Simulator/blob/main/image_example.png)
 
 ## Overview
 This project provides a trading simulation environment implemented in Python using Jupyter Notebooks. The main component, Trading_Profits_Projections.ipynb, allows users to simulate trading scenarios and analyze potential profit outcomes.
